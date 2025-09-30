@@ -347,7 +347,7 @@ const viewport = createBreakpointJS({
                 <ModernButton 
                   variant="secondary" 
                   size="lg"
-                  onClick={() => window.open('https://github.com/nkindre/viewport-sense', '_blank')}
+                  onClick={() => window.open('https://github.com/nishadkindre/viewport-sense', '_blank')}
                 >
                   <Github className="w-5 h-5" />
                   GitHub
@@ -529,7 +529,7 @@ const viewport = createBreakpointJS({
               <ModernButton 
                 variant="secondary" 
                 size="sm"
-                onClick={() => window.open('https://github.com/nkindre/viewport-sense', '_blank')}
+                onClick={() => window.open('https://github.com/nishadkindre/viewport-sense', '_blank')}
               >
                 View on GitHub
                 <ExternalLink className="w-4 h-4" />

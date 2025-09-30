@@ -220,7 +220,7 @@ function MyComponent() {
                 variant="secondary" 
                 size="lg" 
                 animate
-                onClick={() => window.open('https://github.com/nkindre/viewport-sense', '_blank')}
+                onClick={() => window.open('https://github.com/nishadkindre/viewport-sense', '_blank')}
               >
                 <Github className="w-5 h-5" />
                 View on GitHub
@@ -354,7 +354,7 @@ function MyComponent() {
                 variant="secondary" 
                 size="lg" 
                 animate
-                onClick={() => window.open('https://github.com/nkindre/viewport-sense', '_blank')}
+                onClick={() => window.open('https://github.com/nishadkindre/viewport-sense', '_blank')}
               >
                 <Star className="w-5 h-5" />
                 Star on GitHub

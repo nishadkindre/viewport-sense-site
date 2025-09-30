@@ -63,7 +63,7 @@ const ModernHeader = () => {
               </a>
               
               <a 
-                href="https://github.com/nkindre/viewport-sense"
+                href="https://github.com/nishadkindre/viewport-sense"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-center w-9 h-9 text-gray-600 hover:text-gray-900 transition-colors duration-200 hover:bg-gray-100 rounded-lg"
@@ -122,7 +122,7 @@ const ModernHeader = () => {
                     <span className="text-sm font-medium">NPM</span>
                   </a>
                   <a 
-                    href="https://github.com/nkindre/viewport-sense"
+                    href="https://github.com/nishadkindre/viewport-sense"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="flex items-center space-x-2 text-gray-600 hover:text-gray-900 transition-colors duration-200"
