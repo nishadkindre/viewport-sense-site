@@ -15,14 +15,14 @@ const ModernFooter = () => {
     'Resources': [
       { name: 'Getting Started', href: '/docs/getting-started' },
       { name: 'API Reference', href: '/docs/api' },
-      { name: 'GitHub', href: 'https://github.com/viewport-sense/viewport-sense', external: true },
+      { name: 'GitHub', href: 'https://github.com/nishadkindre/viewport-sense', external: true },
       { name: 'NPM Package', href: 'https://www.npmjs.com/package/viewport-sense', external: true },
     ],
     'Community': [
-      { name: 'Issues', href: 'https://github.com/viewport-sense/viewport-sense/issues', external: true },
-      { name: 'Discussions', href: 'https://github.com/viewport-sense/viewport-sense/discussions', external: true },
-      { name: 'Contributing', href: 'https://github.com/viewport-sense/viewport-sense/blob/main/CONTRIBUTING.md', external: true },
-      { name: 'Changelog', href: 'https://github.com/viewport-sense/viewport-sense/blob/main/CHANGELOG.md', external: true },
+      { name: 'Issues', href: 'https://github.com/nishadkindre/viewport-sense/issues', external: true },
+      { name: 'Discussions', href: 'https://github.com/nishadkindre/viewport-sense/discussions', external: true },
+      { name: 'Contributing', href: 'https://github.com/nishadkindre/viewport-sense/blob/main/CONTRIBUTING.md', external: true },
+      { name: 'Changelog', href: 'https://github.com/nishadkindre/viewport-sense/blob/main/CHANGELOG.md', external: true },
     ],
   };
 
@@ -100,7 +100,7 @@ const ModernFooter = () => {
           
           <div className="flex items-center space-x-4 mt-4 sm:mt-0">
             <a
-              href="https://github.com/viewport-sense/viewport-sense"
+              href="https://github.com/nishadkindre/viewport-sense"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-600 hover:text-gray-900 transition-colors duration-200"
